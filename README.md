@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Giole13&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Giole13"
-  width="600"
-  height="300"
-/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Giole13&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Giole13"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
